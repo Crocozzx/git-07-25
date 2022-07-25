@@ -9,6 +9,7 @@ public class Book {
     private String bookauthor;
     private String bookpublish;
     private Date bookdate;
+    private int newAdd;
 
     @Override
     public String toString() {
